@@ -2,3 +2,4 @@ test 1 - fixed
 some bug
 additional from github
 another one
+and from local
